@@ -1,0 +1,38 @@
+Bienvenido a Wordle!
+Este es un juego de adivinanza, en el cual debemos adivinar la palabra aleatoria en un numero maximo de intentos
+INCIANDO JUEGO DE WORDLE
+La palabra secreta tiene 5 letras
+Tienes 6 intentos para adivinar la palabra secreta
+Inserte una palabra de 5 letras
+[31mLa palabra ingresada tiene 7 letras, por favor ingrese una palabra de 5 letras[32m
+[31mLa palabra ingresada tiene 3 letras, por favor ingrese una palabra de 5 letras[32m
+[31mLa palabra ingresada tiene 0 letras, por favor ingrese una palabra de 5 letras[32m
+Te quedan 5 intentos
+[32mP[0m[32mA[0m[32mR[0m[37mT[0m[37mI[0m
+Te quedan 4 intentos
+[32mP[0m[32mA[0m[32mR[0m[37mT[0m[37mI[0m
+[32mP[0m[33mE[0m[32mR[0m[33mA[0m[32mD[0m
+Te quedan 3 intentos
+[32mP[0m[32mA[0m[32mR[0m[37mT[0m[37mI[0m
+[32mP[0m[33mE[0m[32mR[0m[33mA[0m[32mD[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+Te quedan 2 intentos
+[32mP[0m[32mA[0m[32mR[0m[37mT[0m[37mI[0m
+[32mP[0m[33mE[0m[32mR[0m[33mA[0m[32mD[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+Te quedan 1 intentos
+[32mP[0m[32mA[0m[32mR[0m[37mT[0m[37mI[0m
+[32mP[0m[33mE[0m[32mR[0m[33mA[0m[32mD[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+Te quedan 0 intentos
+[32mP[0m[32mA[0m[32mR[0m[37mT[0m[37mI[0m
+[32mP[0m[33mE[0m[32mR[0m[33mA[0m[32mD[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+[32mP[0m[33mE[0m[33mP[0m[33mR[0m[33mA[0m
+GAME OVER
+La palabra secreta era: PARED

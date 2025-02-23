@@ -1,0 +1,8 @@
+Bienvenido a Wordle!
+Este es un juego de adivinanza, en el cual debemos adivinar la palabra aleatoria en un numero maximo de intentos
+INCIANDO JUEGO DE WORDLE
+La palabra secreta tiene 5 letras
+Tienes 6 intentos para adivinar la palabra secreta
+Inserte una palabra de 5 letras
+[32mP[0m[32mA[0m[32mR[0m[32mE[0m[32mD[0m
+Felicidades! Has adivinado la palabra secreta
